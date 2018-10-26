@@ -1,5 +1,5 @@
 # Population
-人口模拟平台,学习地理知识的好帮手
+A good helper in population simulation to learn geography
 
 <div align="center">
 <img width=300 src="https://raw.githubusercontent.com/ZhangCuisha/Population/master/0.png">
@@ -32,27 +32,24 @@
 
 </table>
 
-### 描述
+### Des
 <br>
-人口模拟平台,学习地理知识的好帮手
+A good helper in population simulation to learn geography
 <br>
-您可以了解地理和人口统计。
+You can learn about geography and demographics.
 <br>
-它使用模拟出生和死亡来估计世界各国人口的增长。
+It uses simulated births and deaths to estimate the growth of populations around the world.
 <br>
-特征：
+feature:
 <br>
-- 在地图中选择国家
+- Select a country on the map
 <br>
--在列表中搜索国家
+- Search for countries in the list
 <br>
-- 完整和可视化的人口模拟
+- Complete and visual demographic simulation
 <br>
 
-### 邮箱
+### Feedback
 c500nn@163.com
 
 
-
-## 作者
-Zhang cuisha
