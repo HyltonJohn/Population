@@ -6,13 +6,11 @@ A good helper in population simulation to learn geography
 
 <br> <br>
 
-<h1> 人口模拟 </h1>
+<h1> Population simulation </h1>
 <h3> </h3></div>
 
 <br>
 
-
-### 截图
 
 ### iPhone
 
